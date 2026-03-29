@@ -1,2 +1,2 @@
 # RedHosting
-RedHosting.xyz - Assets
+[RedHosting.xyz](https://redhosting.xyz/) - Assets
